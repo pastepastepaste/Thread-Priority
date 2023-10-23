@@ -1,0 +1,15 @@
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\bin\Debug\Threading Priority.exe.config
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\bin\Debug\Threading Priority.exe
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\bin\Debug\Threading Priority.pdb
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading Priority.csproj.AssemblyReference.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading Priority.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading_Priority.Form1.resources
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading_Priority.Properties.Resources.resources
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading Priority.csproj.GenerateResource.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading Priority.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading Priority.exe
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading Priority.pdb
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\bin\Debug\MetroFramework.dll
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ann\Documents\Lab\Priority Thread\Threading Priority\Threading Priority\obj\Debug\Threading Priority.csproj.CopyComplete
